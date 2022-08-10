@@ -23,6 +23,7 @@ li a {
    font-size: 20px;
    padding-right: 5px;
 }
+ 
 
 .cart a {
     background-color: rgb(132, 135, 144);
@@ -125,9 +126,11 @@ li a {
     padding: 10px 0;
 }
 
+
 .basketTotalTitle {
     width: 30%;
 }
+
 
 .basketTotal {
     width: 10%;
@@ -151,5 +154,5 @@ li a {
 
     .basketTotalContainer {
         padding-right: 8%;
-    }
+    }    
 }
